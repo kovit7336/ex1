@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T06:12:30.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.4" etag="rZtenDAhydiaKqttZCHY" type="github"><diagram id="FeFSE-qFA2JQohW9wziY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-23T07:16:37.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SQVjfZKt7NhGR52O_k5r" version="13.6.4" type="github">
+  <diagram id="FeFSE-qFA2JQohW9wziY" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ULmU550tSqJHk7JgMKmt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="290" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-10" value="Username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-11" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;forgot Password &lt;u&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 10px&quot;&gt;Click&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-14" value="LOGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-16" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;IT Store&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="550" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-19" value="ชื่อ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-20" value="รหัสพนักงาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="690" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-27" value="บันทึก" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-28" value="แก้ไข" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="980" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-29" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;IT Store&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-30" value="นามสกุล" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-31" value="ชื่อสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-33" value="&lt;b&gt;สินค้า&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="810" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-35" value="&lt;font color=&quot;#6e6e6e&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt; &lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;เพิ่มสินค้า&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="765" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-36" value="&lt;b&gt;-&lt;/b&gt;&amp;nbsp; &amp;nbsp;ลบสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="140" y="815" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULmU550tSqJHk7JgMKmt-39" value="รหัสสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
